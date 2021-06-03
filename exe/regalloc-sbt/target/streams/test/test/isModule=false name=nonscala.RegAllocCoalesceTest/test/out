@@ -1,0 +1,25 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mRegAllocCoalesceTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m例: fact[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should 正しい値[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m例: arith (x-y) * z[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should 正しい値[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m例: sort[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should 正しい値[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m例: qsort[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should 正しい値[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m例: remainder[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should 正しい値[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m例: primes[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should 正しい値[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m例: g1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should 正しい合弁判定[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m例: g2 (Briggs)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should 正しい合弁判定[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m例: g3 (George)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should 正しい合弁判定[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m例: g4 (George)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should 正しい合弁判定[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m例: g5 (Briggs)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should 正しい合弁判定[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m例: g6 (Briggs)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should 正しい合弁判定[0m[0m

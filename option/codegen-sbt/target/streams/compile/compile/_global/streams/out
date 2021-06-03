@@ -1,0 +1,11 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/hosokiryubu/Documents/2019/compilerCnstrct/option/codegen-sbt/src/IL.scala:43:25: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : nonscala.IL.AssignInstr[0m
+[0m[[0m[31merror[0m] [0m[0m required: String[0m
+[0m[[0m[31merror[0m] [0m[0m        (c + AssignInstr(x, ValExp(v)), NoneVal)[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/hosokiryubu/Documents/2019/compilerCnstrct/option/codegen-sbt/src/IL.scala:55:25: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : nonscala.IL.AssignInstr[0m
+[0m[[0m[31merror[0m] [0m[0m required: String[0m
+[0m[[0m[31merror[0m] [0m[0m        (c + AssignInstr(x, UOpExp(o, v)), VarVal(x))[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

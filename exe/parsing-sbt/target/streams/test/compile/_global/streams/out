@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/hosokiryubu/Documents/2019/compilerCnstrct/exe/parsing-sbt/test/ParserNonscala.scala:244:20: not found: value LtExp[0m
+[0m[[0m[31merror[0m] [0m[0m            BOpExp(LtExp, VarExp("x"), VarExp("y")),[0m
+[0m[[0m[31merror[0m] [0m[0m                   ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

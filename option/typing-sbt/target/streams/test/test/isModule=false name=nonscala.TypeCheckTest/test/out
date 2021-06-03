@@ -1,0 +1,39 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mTypeCheckTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mVarExp[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should 正しい型付け[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mIntExp[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should 正しい型付け[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mNilExp[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should 正しい型付け[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32misEmpty[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should 正しい型付け[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mhead[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should 正しい型付け[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mtail[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should 正しい型付け[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m+[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should 正しい型付け[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m-[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should 正しい型付け[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m*[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should 正しい型付け[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m/[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should 正しい型付け[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m==[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should 正しい型付け[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should 正しい型付け[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m::[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should 正しい型付け[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mif[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should 正しい型付け[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m関数[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should 正しい型付け[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mexamples/sort[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should 正しい型付け[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mval[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should NoneTy[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mval[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should update env[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mexamples/append[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should [0m[0m

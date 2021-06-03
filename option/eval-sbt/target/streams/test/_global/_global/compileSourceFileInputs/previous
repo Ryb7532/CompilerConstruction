@@ -1,0 +1,1 @@
+["sbt.Task[scala.collection.immutable.Map[java.lang.String, scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]]",{"2.12.10":{"hashes":[["/Users/hosokiryubu/Documents/2019/compilerCnstrct/option/eval-sbt/test/Eval.scala","ef6de110b80dc5b5e328bab83461b8fd919915ea"]],"lastModifiedTimes":[]}}]

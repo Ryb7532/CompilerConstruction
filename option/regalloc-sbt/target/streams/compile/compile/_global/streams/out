@@ -1,0 +1,45 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/hosokiryubu/Documents/2019/compilerCnstrct/option/regalloc-sbt/src/IL.scala:41:19: value ValExp is not a member of object nonscala.Abssyn[0m
+[0m[[0m[31merror[0m] [0m[0m      case Abssyn.ValExp(x, e) => {[0m
+[0m[[0m[31merror[0m] [0m[0m                  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/hosokiryubu/Documents/2019/compilerCnstrct/option/regalloc-sbt/src/IL.scala:62:34: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : nonscala.Abssyn.Exp[0m
+[0m[[0m[31merror[0m] [0m[0m required: List[nonscala.Abssyn.Exp][0m
+[0m[[0m[31merror[0m] [0m[0m        val (c1, v1) = transBody(e1, NoneVal)[0m
+[0m[[0m[31merror[0m] [0m[0m                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/hosokiryubu/Documents/2019/compilerCnstrct/option/regalloc-sbt/src/IL.scala:63:34: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : nonscala.Abssyn.Exp[0m
+[0m[[0m[31merror[0m] [0m[0m required: List[nonscala.Abssyn.Exp][0m
+[0m[[0m[31merror[0m] [0m[0m        val (c2, v2) = transBody(e2, NoneVal)[0m
+[0m[[0m[31merror[0m] [0m[0m                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/hosokiryubu/Documents/2019/compilerCnstrct/option/regalloc-sbt/src/IL.scala:64:51: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Any[0m
+[0m[[0m[31merror[0m] [0m[0m required: scala.collection.GenTraversableOnce[?][0m
+[0m[[0m[31merror[0m] [0m[0m        (c ++ List(IfGotoInstr(ce, thenLabel)) ++ c2[0m
+[0m[[0m[31merror[0m] [0m[0m                                                  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/hosokiryubu/Documents/2019/compilerCnstrct/option/regalloc-sbt/src/IL.scala:65:41: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Any[0m
+[0m[[0m[31merror[0m] [0m[0m required: nonscala.IL.Val[0m
+[0m[[0m[31merror[0m] [0m[0m          ++ List(AssignInstr(r, ValExp(v2)), GotoInstr(nextLabel), LabelInstr(thenLabel))[0m
+[0m[[0m[31merror[0m] [0m[0m                                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/hosokiryubu/Documents/2019/compilerCnstrct/option/regalloc-sbt/src/IL.scala:66:47: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Any[0m
+[0m[[0m[31merror[0m] [0m[0m required: nonscala.IL.Val[0m
+[0m[[0m[31merror[0m] [0m[0m          ++ c1 ++ List(AssignInstr(r, ValExp(v1)), LabelInstr(nextLabel)),[0m
+[0m[[0m[31merror[0m] [0m[0m                                              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/hosokiryubu/Documents/2019/compilerCnstrct/option/regalloc-sbt/src/IL.scala:109:31: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : nonscala.Abssyn.Exp[0m
+[0m[[0m[31merror[0m] [0m[0m required: List[nonscala.Abssyn.Exp][0m
+[0m[[0m[31merror[0m] [0m[0m    val (c, v) =  transBody(d.body, NoneVal)[0m
+[0m[[0m[31merror[0m] [0m[0m                              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/hosokiryubu/Documents/2019/compilerCnstrct/option/regalloc-sbt/src/IL.scala:110:35: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Any[0m
+[0m[[0m[31merror[0m] [0m[0m required: nonscala.IL.Code[0m
+[0m[[0m[31merror[0m] [0m[0m    (which expands to)  List[nonscala.IL.Instr][0m
+[0m[[0m[31merror[0m] [0m[0m    Def(d.name, d.args.map(_._1), c, v)[0m
+[0m[[0m[31merror[0m] [0m[0m                                  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/hosokiryubu/Documents/2019/compilerCnstrct/option/regalloc-sbt/src/IL.scala:110:38: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Any[0m
+[0m[[0m[31merror[0m] [0m[0m required: nonscala.IL.Val[0m
+[0m[[0m[31merror[0m] [0m[0m    Def(d.name, d.args.map(_._1), c, v)[0m
+[0m[[0m[31merror[0m] [0m[0m                                     ^[0m
+[0m[[0m[31merror[0m] [0m[0m9 errors found[0m

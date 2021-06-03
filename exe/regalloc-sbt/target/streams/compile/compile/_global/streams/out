@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/hosokiryubu/Documents/2019/compilerCnstrct/exe/regalloc-sbt/src/RegAllocCoalesce.scala:33:17: value filter is not a member of nonscala.Graph[nonscala.Asm.Reg][0m
+[0m[[0m[31merror[0m] [0m[0m      val a = g.filter(!g.adjacent(r1).contains(_))[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

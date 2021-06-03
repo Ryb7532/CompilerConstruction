@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/hosokiryubu/Documents/2019/compilerCnstrct/option/codegen-sbt/test/Codegen.scala:130:18: not found: type CodegenError[0m
+[0m[[0m[31merror[0m] [0m[0m    assertThrows[CodegenError]{[0m
+[0m[[0m[31merror[0m] [0m[0m                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/hosokiryubu/Documents/2019/compilerCnstrct/option/codegen-sbt/test/Codegen.scala:132:61: too many arguments (2) for method apply: (v: nonscala.IL.Val)nonscala.IL.ValExp in object ValExp[0m
+[0m[[0m[31merror[0m] [0m[0m        Codegen.genInstr(AssignInstr("y", ValExp("x", IntExp(1)))))._1("y")[0m
+[0m[[0m[31merror[0m] [0m[0m                                                            ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

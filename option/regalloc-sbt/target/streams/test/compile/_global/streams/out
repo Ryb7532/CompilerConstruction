@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/hosokiryubu/Documents/2019/compilerCnstrct/exe/regalloc-sbt/test/RegAllocBehavior.scala:76:10: env2 is already defined as value env2[0m
+[0m[[0m[31merror[0m] [0m[0m    val (env2, mem2, _) =[0m
+[0m[[0m[31merror[0m] [0m[0m         ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/hosokiryubu/Documents/2019/compilerCnstrct/exe/regalloc-sbt/test/RegAllocBehavior.scala:76:16: mem2 is already defined as value mem2[0m
+[0m[[0m[31merror[0m] [0m[0m    val (env2, mem2, _) =[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

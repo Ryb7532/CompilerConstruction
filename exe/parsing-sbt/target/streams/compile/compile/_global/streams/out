@@ -1,0 +1,16 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/hosokiryubu/Documents/2019/compilerCnstrct/exe/parsing-sbt/src/ParserNonscala.scala:67:9: ';' expected but 'else' found.[0m
+[0m[[0m[31merror[0m] [0m[0m        else if (s == "head") advance(); HeadOp[0m
+[0m[[0m[31merror[0m] [0m[0m        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/hosokiryubu/Documents/2019/compilerCnstrct/exe/parsing-sbt/src/ParserNonscala.scala:68:9: ';' expected but 'else' found.[0m
+[0m[[0m[31merror[0m] [0m[0m        else if (s == "tail") advance(); TailOp[0m
+[0m[[0m[31merror[0m] [0m[0m        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/hosokiryubu/Documents/2019/compilerCnstrct/exe/parsing-sbt/src/ParserNonscala.scala:69:9: ';' expected but 'else' found.[0m
+[0m[[0m[31merror[0m] [0m[0m        else error()[0m
+[0m[[0m[31merror[0m] [0m[0m        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/hosokiryubu/Documents/2019/compilerCnstrct/exe/parsing-sbt/src/ParserNonscala.scala:149:9: ';' expected but 'else' found.[0m
+[0m[[0m[31merror[0m] [0m[0m        else if (s == "Boolean") advance(); BoolTy[0m
+[0m[[0m[31merror[0m] [0m[0m        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/hosokiryubu/Documents/2019/compilerCnstrct/exe/parsing-sbt/src/ParserNonscala.scala:150:9: ';' expected but 'else' found.[0m
+[0m[[0m[31merror[0m] [0m[0m        else if (s == "List") {[0m
+[0m[[0m[31merror[0m] [0m[0m        ^[0m
+[0m[[0m[31merror[0m] [0m[0m5 errors found[0m

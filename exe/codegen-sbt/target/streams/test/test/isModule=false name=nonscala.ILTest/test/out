@@ -1,0 +1,37 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mILTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mVar[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should 正しい値[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mInt[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should 正しい値[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mNil[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should 正しい値[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m+[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should 正しい値[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m-(minus)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should 正しい値[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m*[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should 正しい値[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m/[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should 正しい値[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m::[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should 正しい値[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m算術式[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should 正しい値[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mhead[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should 正しい値[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mtail[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should 正しい値[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mif[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should 正しい値[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m関数適用[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should 正しい値[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m例: arith (x-y) * z[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should 正しい値[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m例: fact[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should 正しい値[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m例: sort[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should 正しい値[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m例: qsort[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should 正しい値[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m例: primes[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should 正しい値[0m[0m

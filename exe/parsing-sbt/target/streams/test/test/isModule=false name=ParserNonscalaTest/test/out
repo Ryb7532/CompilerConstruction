@@ -1,0 +1,49 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mParserNonscalaTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m+[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should 左に強く結合[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m-[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should 左に強く結合[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m*[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should 左に強く結合[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m/[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should 左に強く結合[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m()[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should 正しく結合[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m*,+[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should *の方が強く結合[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m+,-,*,/[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should *,/の方が強く結合[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mカッコの中に*と+[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should 上の規則を適用[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m算術式[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should 項としてNilを含む[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m::[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should 右に強く結合[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mList[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should 最後の要素はNilでなくても良い[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mList[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should 途中の要素にNil[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m::と算術式[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should 算術式を優先[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mif文と==[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mif文と<[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mif文のネスト[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32misEmpty[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mhead[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mtail[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m関数適用[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m関数定義[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mexamples: insert[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mexamples: maxmin[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should [0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mexamples: sort[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should [0m[0m

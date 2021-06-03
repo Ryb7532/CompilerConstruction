@@ -1,0 +1,15 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mRegExpTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mCharExp[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should toNFA[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mEmptyExp[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should toNFA[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mEpsExp[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should toNFA[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mConcatExp[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should toNFA[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAltExp[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should toNFA[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mStarExp[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should toNFA[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mRegExp[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should toNFA[0m[0m

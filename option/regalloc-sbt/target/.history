@@ -1,0 +1,86 @@
+console
+compile
+test
+compile
+testOnly RegAllocBehavior
+testOnly nonscala.RegAllocBehavior
+testOnly nonscala.RegAllocTest
+testOnly nonscala.RegAllocCoalesceTest
+console
+exit
+compile
+console
+exit
+console
+compile
+console
+exit
+compile
+console
+exit
+compile
+console
+exit
+compile
+console
+exit
+console
+compile
+console
+exit
+compile
+console
+exit
+compile
+console
+exit
+compile
+testOnly RegAllocCoalesceTest
+testOnly nonscala.RegAllocTestCoalesce
+testOnly nonscala.RegAllocTest
+testOnly nonscala.RegAllocCoalesceTest
+compile
+testOnly nonscala.RegAllocCoalesceTest
+compile
+testOnly nonscala.RegAllocCoalesceTest
+compile
+testOnly nonscala.RegAllocCoalesceTest
+compile
+testOnly nonscala.RegAllocCoalesceTest
+test
+console
+test
+console
+exit
+compile
+test
+exit
+compile
+test
+compile
+test
+compile
+testOnly RegAllocTest
+testOnly nonscala.RegAllocTest
+console
+comile
+compile
+test
+exit
+compile
+test
+compile
+test
+console
+exit
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+exit
+test
+exit

@@ -1,0 +1,19 @@
+compile
+console
+compile
+"abc".next()
+console
+compile
+console
+compile
+console
+compile
+console
+compile
+val p = new Parser(new Lexer("abc + 10 * 100".iterator))
+console
+compile
+(if (true) 1 else 2) + 10
+if (true) 1 else 2
+console
+compile

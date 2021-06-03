@@ -1,0 +1,65 @@
+compile
+testOnly nonscala.ILTest
+console
+compile
+testOnly nonscala.ILTest
+compile
+testOnly nonscala.ILTest
+console
+compile
+test
+compile
+test
+comile
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+testOnly nonscala.ILTest
+compile
+testOnly nonscala.ILTest
+test
+testOnly nonscala.ILTest
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+console
+compile
+test
+console
+compile
+test
+exit
+compile
+test
+exit
